@@ -1,0 +1,19 @@
+.ticket_num {
+    padding: 15px;
+    cursor: pointer;
+    border: 0.5px solid grey;
+}
+.ticket--row {
+    display: none;
+    background: lightblue;
+    padding: 10px;
+}
+#ticket_table_filter {
+    float: right;
+}
+.pagination {
+    float: right;
+}
+.inline-box {
+    display: inline-block;
+}
